@@ -784,120 +784,6 @@
 											<Fixed Value="false" />
 										</ExpressionGrid>
 									</MidiClip>
-									<MidiClip Id="30" Time="256">
-										<LomId Value="0" />
-										<LomIdView Value="0" />
-										<CurrentStart Value="256" />
-										<CurrentEnd Value="320" />
-										<Loop>
-											<LoopStart Value="0" />
-											<LoopEnd Value="4" />
-											<StartRelative Value="0" />
-											<LoopOn Value="true" />
-											<OutMarker Value="4" />
-											<HiddenLoopStart Value="0" />
-											<HiddenLoopEnd Value="4" />
-										</Loop>
-										<Name Value="" />
-										<Annotation Value="" />
-										<Color Value="27" />
-										<LaunchMode Value="0" />
-										<LaunchQuantisation Value="0" />
-										<TimeSignature>
-											<TimeSignatures>
-												<RemoteableTimeSignature Id="0">
-													<Numerator Value="4" />
-													<Denominator Value="4" />
-													<Time Value="0" />
-												</RemoteableTimeSignature>
-											</TimeSignatures>
-										</TimeSignature>
-										<Envelopes>
-											<Envelopes />
-										</Envelopes>
-										<ScrollerTimePreserver>
-											<LeftTime Value="0" />
-											<RightTime Value="4" />
-										</ScrollerTimePreserver>
-										<TimeSelection>
-											<AnchorTime Value="0" />
-											<OtherTime Value="3.25" />
-										</TimeSelection>
-										<Legato Value="false" />
-										<Ram Value="false" />
-										<GrooveSettings>
-											<GrooveId Value="-1" />
-										</GrooveSettings>
-										<Disabled Value="true" />
-										<VelocityAmount Value="0" />
-										<FollowAction>
-											<FollowTime Value="4" />
-											<IsLinked Value="true" />
-											<LoopIterations Value="1" />
-											<FollowActionA Value="4" />
-											<FollowActionB Value="0" />
-											<FollowChanceA Value="100" />
-											<FollowChanceB Value="0" />
-											<JumpIndexA Value="1" />
-											<JumpIndexB Value="1" />
-											<FollowActionEnabled Value="false" />
-										</FollowAction>
-										<Grid>
-											<FixedNumerator Value="1" />
-											<FixedDenominator Value="16" />
-											<GridIntervalPixel Value="20" />
-											<Ntoles Value="2" />
-											<SnapToGrid Value="true" />
-											<Fixed Value="true" />
-										</Grid>
-										<FreezeStart Value="0" />
-										<FreezeEnd Value="0" />
-										<IsWarped Value="true" />
-										<TakeId Value="2" />
-										<Notes>
-											<KeyTracks>
-												<KeyTrack Id="0">
-													<Notes>
-														<MidiNoteEvent Time="0" Duration="0.25" Velocity="100" VelocityDeviation="0" OffVelocity="64" Probability="1" IsEnabled="true" NoteId="1" />
-														<MidiNoteEvent Time="1" Duration="0.25" Velocity="100" VelocityDeviation="0" OffVelocity="64" Probability="1" IsEnabled="true" NoteId="2" />
-														<MidiNoteEvent Time="2" Duration="0.25" Velocity="100" VelocityDeviation="0" OffVelocity="64" Probability="1" IsEnabled="true" NoteId="3" />
-														<MidiNoteEvent Time="3" Duration="0.25" Velocity="100" VelocityDeviation="0" OffVelocity="64" Probability="1" IsEnabled="true" NoteId="4" />
-													</Notes>
-													<MidiKey Value="36" />
-												</KeyTrack>
-											</KeyTracks>
-											<PerNoteEventStore>
-												<EventLists />
-											</PerNoteEventStore>
-											<NoteIdGenerator>
-												<NextId Value="9" />
-											</NoteIdGenerator>
-										</Notes>
-										<BankSelectCoarse Value="-1" />
-										<BankSelectFine Value="-1" />
-										<ProgramChange Value="-1" />
-										<NoteEditorFoldInZoom Value="24" />
-										<NoteEditorFoldInScroll Value="0" />
-										<NoteEditorFoldOutZoom Value="24" />
-										<NoteEditorFoldOutScroll Value="0" />
-										<NoteEditorFoldScaleZoom Value="-1" />
-										<NoteEditorFoldScaleScroll Value="0" />
-										<ScaleInformation>
-											<RootNote Value="0" />
-											<Name Value="Major" />
-										</ScaleInformation>
-										<IsInKey Value="false" />
-										<NoteSpellingPreference Value="3" />
-										<PreferFlatRootNote Value="false" />
-										<ExpressionGrid>
-											<FixedNumerator Value="1" />
-											<FixedDenominator Value="16" />
-											<GridIntervalPixel Value="20" />
-											<Ntoles Value="2" />
-											<SnapToGrid Value="false" />
-											<Fixed Value="false" />
-										</ExpressionGrid>
-									</MidiClip>
 									<MidiClip Id="31" Time="320">
 										<LomId Value="0" />
 										<LomIdView Value="0" />
@@ -1865,7 +1751,7 @@
 																			<SourceContext>
 																				<SourceContext Id="0">
 																					<OriginalFileRef>
-																						<FileRef Id="193">
+																						<FileRef Id="199">
 																							<RelativePathType Value="5" />
 																							<RelativePath Value="Samples/One Shots/Drums/Rim/Rim 808 SP 1.wav" />
 																							<Path Value="/Applications/Ableton Live 11 Lite.app/Contents/App-Resources/Core Library/Samples/One Shots/Drums/Rim/Rim 808 SP 1.wav" />
@@ -3315,6 +3201,7 @@
 							<Automation>
 								<Events>
 									<FloatEvent Id="793" Time="-63072000" Value="20" />
+									<FloatEvent Id="1240" Time="25.9775282009657" Value="20" />
 									<FloatEvent Id="792" Time="32" Value="20" />
 									<FloatEvent Id="508" Time="48" Value="67.3499756" />
 									<FloatEvent Id="1172" Time="68" Value="31.3499508" />
@@ -3381,7 +3268,7 @@
 							<AutomationLane Id="0">
 								<SelectedDevice Value="2" />
 								<SelectedEnvelope Value="5" />
-								<IsContentSelectedInDocument Value="true" />
+								<IsContentSelectedInDocument Value="false" />
 								<LaneHeight Value="17" />
 							</AutomationLane>
 						</AutomationLanes>
@@ -4400,7 +4287,7 @@
 							<AutomationLane Id="0">
 								<SelectedDevice Value="7" />
 								<SelectedEnvelope Value="2" />
-								<IsContentSelectedInDocument Value="false" />
+								<IsContentSelectedInDocument Value="true" />
 								<LaneHeight Value="17" />
 							</AutomationLane>
 						</AutomationLanes>
@@ -4408,7 +4295,7 @@
 					</AutomationLanes>
 					<ClipEnvelopeChooserViewState>
 						<SelectedDevice Value="15" />
-						<SelectedEnvelope Value="1" />
+						<SelectedEnvelope Value="0" />
 						<PreferModulationVisible Value="true" />
 					</ClipEnvelopeChooserViewState>
 					<AudioInputRouting>
@@ -4470,7 +4357,7 @@
 						<ParametersListWrapper LomId="0" />
 						<Pointee Id="19715" />
 						<LastSelectedTimeableIndex Value="0" />
-						<LastSelectedClipEnvelopeIndex Value="1" />
+						<LastSelectedClipEnvelopeIndex Value="0" />
 						<LastPresetRef>
 							<Value />
 						</LastPresetRef>
@@ -6147,7 +6034,7 @@
 																			<SourceContext>
 																				<SourceContext Id="0">
 																					<OriginalFileRef>
-																						<FileRef Id="184">
+																						<FileRef Id="190">
 																							<RelativePathType Value="5" />
 																							<RelativePath Value="Samples/One Shots/Drums/Kick/Kick Burst 2.aif" />
 																							<Path Value="/Applications/Ableton Live 11 Lite.app/Contents/App-Resources/Core Library/Samples/One Shots/Drums/Kick/Kick Burst 2.aif" />
@@ -11525,7 +11412,7 @@
 						<ParametersListWrapper LomId="0" />
 						<Pointee Id="64814" />
 						<LastSelectedTimeableIndex Value="2" />
-						<LastSelectedClipEnvelopeIndex Value="2" />
+						<LastSelectedClipEnvelopeIndex Value="1" />
 						<LastPresetRef>
 							<Value />
 						</LastPresetRef>
@@ -11851,7 +11738,118 @@
 										<LomId Value="0" />
 										<LomIdView Value="0" />
 										<CurrentStart Value="24" />
-										<CurrentEnd Value="48" />
+										<CurrentEnd Value="40" />
+										<Loop>
+											<LoopStart Value="0" />
+											<LoopEnd Value="8" />
+											<StartRelative Value="0" />
+											<LoopOn Value="true" />
+											<OutMarker Value="8" />
+											<HiddenLoopStart Value="0" />
+											<HiddenLoopEnd Value="4" />
+										</Loop>
+										<Name Value="" />
+										<Annotation Value="" />
+										<Color Value="59" />
+										<LaunchMode Value="0" />
+										<LaunchQuantisation Value="0" />
+										<TimeSignature>
+											<TimeSignatures>
+												<RemoteableTimeSignature Id="0">
+													<Numerator Value="4" />
+													<Denominator Value="4" />
+													<Time Value="0" />
+												</RemoteableTimeSignature>
+											</TimeSignatures>
+										</TimeSignature>
+										<Envelopes>
+											<Envelopes />
+										</Envelopes>
+										<ScrollerTimePreserver>
+											<LeftTime Value="0" />
+											<RightTime Value="8" />
+										</ScrollerTimePreserver>
+										<TimeSelection>
+											<AnchorTime Value="3.5" />
+											<OtherTime Value="3.75" />
+										</TimeSelection>
+										<Legato Value="false" />
+										<Ram Value="false" />
+										<GrooveSettings>
+											<GrooveId Value="-1" />
+										</GrooveSettings>
+										<Disabled Value="false" />
+										<VelocityAmount Value="0" />
+										<FollowAction>
+											<FollowTime Value="4" />
+											<IsLinked Value="true" />
+											<LoopIterations Value="1" />
+											<FollowActionA Value="4" />
+											<FollowActionB Value="0" />
+											<FollowChanceA Value="100" />
+											<FollowChanceB Value="0" />
+											<JumpIndexA Value="1" />
+											<JumpIndexB Value="1" />
+											<FollowActionEnabled Value="false" />
+										</FollowAction>
+										<Grid>
+											<FixedNumerator Value="1" />
+											<FixedDenominator Value="16" />
+											<GridIntervalPixel Value="20" />
+											<Ntoles Value="2" />
+											<SnapToGrid Value="true" />
+											<Fixed Value="true" />
+										</Grid>
+										<FreezeStart Value="0" />
+										<FreezeEnd Value="0" />
+										<IsWarped Value="true" />
+										<TakeId Value="1" />
+										<Notes>
+											<KeyTracks>
+												<KeyTrack Id="16">
+													<Notes>
+														<MidiNoteEvent Time="3.5" Duration="0.25" Velocity="100" VelocityDeviation="0" OffVelocity="64" Probability="1" IsEnabled="true" NoteId="1" />
+													</Notes>
+													<MidiKey Value="58" />
+												</KeyTrack>
+											</KeyTracks>
+											<PerNoteEventStore>
+												<EventLists />
+											</PerNoteEventStore>
+											<NoteIdGenerator>
+												<NextId Value="2" />
+											</NoteIdGenerator>
+										</Notes>
+										<BankSelectCoarse Value="-1" />
+										<BankSelectFine Value="-1" />
+										<ProgramChange Value="-1" />
+										<NoteEditorFoldInZoom Value="-1" />
+										<NoteEditorFoldInScroll Value="0" />
+										<NoteEditorFoldOutZoom Value="1960" />
+										<NoteEditorFoldOutScroll Value="-992" />
+										<NoteEditorFoldScaleZoom Value="-1" />
+										<NoteEditorFoldScaleScroll Value="0" />
+										<ScaleInformation>
+											<RootNote Value="10" />
+											<Name Value="Minor" />
+										</ScaleInformation>
+										<IsInKey Value="true" />
+										<NoteSpellingPreference Value="3" />
+										<PreferFlatRootNote Value="false" />
+										<ExpressionGrid>
+											<FixedNumerator Value="1" />
+											<FixedDenominator Value="16" />
+											<GridIntervalPixel Value="20" />
+											<Ntoles Value="2" />
+											<SnapToGrid Value="false" />
+											<Fixed Value="false" />
+										</ExpressionGrid>
+									</MidiClip>
+									<MidiClip Id="60" Time="48">
+										<LomId Value="0" />
+										<LomIdView Value="0" />
+										<CurrentStart Value="48" />
+										<CurrentEnd Value="56" />
 										<Loop>
 											<LoopStart Value="0" />
 											<LoopEnd Value="8" />
@@ -22448,7 +22446,7 @@
 																			<SourceContext>
 																				<SourceContext Id="0">
 																					<OriginalFileRef>
-																						<FileRef Id="187">
+																						<FileRef Id="193">
 																							<RelativePathType Value="5" />
 																							<RelativePath Value="Samples/One Shots/Drums/Hihat/Hihat Open 909.aif" />
 																							<Path Value="/Applications/Ableton Live 11 Lite.app/Contents/App-Resources/Core Library/Samples/One Shots/Drums/Hihat/Hihat Open 909.aif" />
@@ -23625,7 +23623,7 @@
 																			<SourceContext>
 																				<SourceContext Id="0">
 																					<OriginalFileRef>
-																						<FileRef Id="134">
+																						<FileRef Id="140">
 																							<RelativePathType Value="5" />
 																							<RelativePath Value="Samples/Multisamples/Drum Machines/808/Cymbal 808 Tone8 k.wav" />
 																							<Path Value="/Applications/Ableton Live 11 Lite.app/Contents/App-Resources/Core Library/Samples/Multisamples/Drum Machines/808/Cymbal 808 Tone8 k.wav" />
@@ -24787,7 +24785,7 @@
 																			<SourceContext>
 																				<SourceContext Id="0">
 																					<OriginalFileRef>
-																						<FileRef Id="124">
+																						<FileRef Id="130">
 																							<RelativePathType Value="5" />
 																							<RelativePath Value="Samples/One Shots/Drums/Clap/Clap 909.aif" />
 																							<Path Value="/Applications/Ableton Live 11 Lite.app/Contents/App-Resources/Core Library/Samples/One Shots/Drums/Clap/Clap 909.aif" />
@@ -27729,7 +27727,7 @@
 											<SourceContext>
 												<SourceContext Id="0">
 													<OriginalFileRef>
-														<FileRef Id="79">
+														<FileRef Id="85">
 															<RelativePathType Value="5" />
 															<RelativePath Value="Samples/Loops/Tonal/Synth/Atmos Colluding D# 130 bpm.wav" />
 															<Path Value="/Applications/Ableton Live 11 Lite.app/Contents/App-Resources/Core Library/Samples/Loops/Tonal/Synth/Atmos Colluding D# 130 bpm.wav" />
@@ -27871,7 +27869,7 @@
 											<SourceContext>
 												<SourceContext Id="0">
 													<OriginalFileRef>
-														<FileRef Id="79">
+														<FileRef Id="85">
 															<RelativePathType Value="5" />
 															<RelativePath Value="Samples/Loops/Tonal/Synth/Atmos Colluding D# 130 bpm.wav" />
 															<Path Value="/Applications/Ableton Live 11 Lite.app/Contents/App-Resources/Core Library/Samples/Loops/Tonal/Synth/Atmos Colluding D# 130 bpm.wav" />
@@ -28013,7 +28011,7 @@
 											<SourceContext>
 												<SourceContext Id="0">
 													<OriginalFileRef>
-														<FileRef Id="79">
+														<FileRef Id="85">
 															<RelativePathType Value="5" />
 															<RelativePath Value="Samples/Loops/Tonal/Synth/Atmos Colluding D# 130 bpm.wav" />
 															<Path Value="/Applications/Ableton Live 11 Lite.app/Contents/App-Resources/Core Library/Samples/Loops/Tonal/Synth/Atmos Colluding D# 130 bpm.wav" />
@@ -28155,7 +28153,7 @@
 											<SourceContext>
 												<SourceContext Id="0">
 													<OriginalFileRef>
-														<FileRef Id="79">
+														<FileRef Id="85">
 															<RelativePathType Value="5" />
 															<RelativePath Value="Samples/Loops/Tonal/Synth/Atmos Colluding D# 130 bpm.wav" />
 															<Path Value="/Applications/Ableton Live 11 Lite.app/Contents/App-Resources/Core Library/Samples/Loops/Tonal/Synth/Atmos Colluding D# 130 bpm.wav" />
@@ -28297,7 +28295,7 @@
 											<SourceContext>
 												<SourceContext Id="0">
 													<OriginalFileRef>
-														<FileRef Id="79">
+														<FileRef Id="85">
 															<RelativePathType Value="5" />
 															<RelativePath Value="Samples/Loops/Tonal/Synth/Atmos Colluding D# 130 bpm.wav" />
 															<Path Value="/Applications/Ableton Live 11 Lite.app/Contents/App-Resources/Core Library/Samples/Loops/Tonal/Synth/Atmos Colluding D# 130 bpm.wav" />
@@ -28439,7 +28437,7 @@
 											<SourceContext>
 												<SourceContext Id="0">
 													<OriginalFileRef>
-														<FileRef Id="79">
+														<FileRef Id="85">
 															<RelativePathType Value="5" />
 															<RelativePath Value="Samples/Loops/Tonal/Synth/Atmos Colluding D# 130 bpm.wav" />
 															<Path Value="/Applications/Ableton Live 11 Lite.app/Contents/App-Resources/Core Library/Samples/Loops/Tonal/Synth/Atmos Colluding D# 130 bpm.wav" />
@@ -28581,7 +28579,7 @@
 											<SourceContext>
 												<SourceContext Id="0">
 													<OriginalFileRef>
-														<FileRef Id="79">
+														<FileRef Id="85">
 															<RelativePathType Value="5" />
 															<RelativePath Value="Samples/Loops/Tonal/Synth/Atmos Colluding D# 130 bpm.wav" />
 															<Path Value="/Applications/Ableton Live 11 Lite.app/Contents/App-Resources/Core Library/Samples/Loops/Tonal/Synth/Atmos Colluding D# 130 bpm.wav" />
@@ -36622,7 +36620,7 @@
 						<ParametersListWrapper LomId="0" />
 						<Pointee Id="52731" />
 						<LastSelectedTimeableIndex Value="0" />
-						<LastSelectedClipEnvelopeIndex Value="1" />
+						<LastSelectedClipEnvelopeIndex Value="0" />
 						<LastPresetRef>
 							<Value />
 						</LastPresetRef>
@@ -38877,7 +38875,9 @@
 									<FloatEvent Id="705" Time="312" Value="0" />
 									<FloatEvent Id="706" Time="319" Value="1" />
 									<FloatEvent Id="842" Time="320" Value="0" />
-									<FloatEvent Id="965" Time="376" Value="0" />
+									<FloatEvent Id="1142" Time="344" Value="0.1000000015" />
+									<FloatEvent Id="1144" Time="364" Value="0.05000000075" />
+									<FloatEvent Id="1140" Time="376" Value="0.200000003" />
 									<FloatEvent Id="966" Time="384" Value="0.9850746393" />
 								</Events>
 								<AutomationTransformViewState>
@@ -39074,7 +39074,7 @@
 						</SplitStereoPanR>
 						<Volume>
 							<LomId Value="0" />
-							<Manual Value="0.3548133373" />
+							<Manual Value="0.1995262355" />
 							<MidiControllerRange>
 								<Min Value="0.0003162277571" />
 								<Max Value="1.99526238" />
@@ -40215,7 +40215,7 @@
 													<SourceContext>
 														<SourceContext Id="0">
 															<OriginalFileRef>
-																<FileRef Id="136">
+																<FileRef Id="142">
 																	<RelativePathType Value="5" />
 																	<RelativePath Value="Samples/Multisamples/Grand Piano/GrandPiano C3 f.aif" />
 																	<Path Value="/Applications/Ableton Live 11 Lite.app/Contents/App-Resources/Core Library/Samples/Multisamples/Grand Piano/GrandPiano C3 f.aif" />
@@ -42221,7 +42221,7 @@
 										<NumAudioInputs Value="1" />
 										<NumAudioOutputs Value="1" />
 										<Preset>
-											<Vst3Preset Id="115">
+											<Vst3Preset Id="121">
 												<OverwriteProtectionNumber Value="2819" />
 												<MpeEnabled Value="0" />
 												<MpeSettings>
@@ -46385,7 +46385,7 @@
 								<ParametersListWrapper LomId="0" />
 								<Pointee Id="64371" />
 								<LastSelectedTimeableIndex Value="32" />
-								<LastSelectedClipEnvelopeIndex Value="19" />
+								<LastSelectedClipEnvelopeIndex Value="11" />
 								<LastPresetRef>
 									<Value>
 										<AbletonDefaultPresetRef Id="2">
@@ -49227,7 +49227,7 @@
 									<NumAudioInputs Value="1" />
 									<NumAudioOutputs Value="1" />
 									<Preset>
-										<Vst3Preset Id="55">
+										<Vst3Preset Id="61">
 											<OverwriteProtectionNumber Value="2819" />
 											<MpeEnabled Value="0" />
 											<MpeSettings>
@@ -53241,7 +53241,7 @@
 							<OverwriteProtectionNumber Value="2819" />
 							<Gain>
 								<LomId Value="0" />
-								<Manual Value="6" />
+								<Manual Value="8" />
 								<MidiControllerRange>
 									<Min Value="-24" />
 									<Max Value="24" />
@@ -53255,7 +53255,7 @@
 							</Gain>
 							<Ceiling>
 								<LomId Value="0" />
-								<Manual Value="-1" />
+								<Manual Value="-0.3000000119" />
 								<MidiControllerRange>
 									<Min Value="-24" />
 									<Max Value="0" />
@@ -56979,7 +56979,7 @@
 			<LoopStart Value="8" />
 			<LoopLength Value="8" />
 			<LoopIsSongStart Value="false" />
-			<CurrentTime Value="146.64090700965701" />
+			<CurrentTime Value="38.542802721088435" />
 			<PunchIn Value="false" />
 			<PunchOut Value="false" />
 			<MetronomeTickDuration Value="0" />
@@ -57006,8 +57006,8 @@
 		<InKey Value="false" />
 		<SmpteFormat Value="0" />
 		<TimeSelection>
-			<AnchorTime Value="140" />
-			<OtherTime Value="140" />
+			<AnchorTime Value="16" />
+			<OtherTime Value="16" />
 		</TimeSelection>
 		<SequencerNavigator>
 			<BeatTimeHelper>
@@ -57069,7 +57069,7 @@
 		<SoloInPlace Value="true" />
 		<CrossfadeCurve Value="2" />
 		<LatencyCompensation Value="2" />
-		<HighlightedTrackIndex Value="1" />
+		<HighlightedTrackIndex Value="2" />
 		<GroovePool>
 			<LomId Value="0" />
 			<Grooves />
