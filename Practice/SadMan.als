@@ -9,7 +9,7 @@
 			<MidiTrack Id="19">
 				<LomId Value="0" />
 				<LomIdView Value="0" />
-				<IsContentSelectedInDocument Value="true" />
+				<IsContentSelectedInDocument Value="false" />
 				<PreferredContentViewMode Value="0" />
 				<TrackDelay>
 					<Value Value="0" />
@@ -55,7 +55,7 @@
 					</AutomationLanes>
 					<ClipEnvelopeChooserViewState>
 						<SelectedDevice Value="2" />
-						<SelectedEnvelope Value="14" />
+						<SelectedEnvelope Value="24" />
 						<PreferModulationVisible Value="true" />
 					</ClipEnvelopeChooserViewState>
 					<AudioInputRouting>
@@ -575,7 +575,7 @@
 							</ArrangerAutomation>
 						</ClipTimeable>
 						<Recorder>
-							<IsArmed Value="true" />
+							<IsArmed Value="false" />
 							<TakeCounter Value="0" />
 						</Recorder>
 						<MidiControllers>
@@ -1306,7 +1306,7 @@
 																			<SourceContext>
 																				<SourceContext Id="0">
 																					<OriginalFileRef>
-																						<FileRef Id="95">
+																						<FileRef Id="98">
 																							<RelativePathType Value="5" />
 																							<RelativePath Value="Samples/One Shots/Drums/Rim/Rim 909.aif" />
 																							<Path Value="/Applications/Ableton Live 11 Standard.app/Contents/App-Resources/Core Library/Samples/One Shots/Drums/Rim/Rim 909.aif" />
@@ -2746,7 +2746,7 @@
 					<Annotation Value="" />
 					<MemorizedFirstClipName Value="" />
 				</Name>
-				<Color Value="19" />
+				<Color Value="61" />
 				<AutomationEnvelopes>
 					<Envelopes>
 						<AutomationEnvelope Id="0">
@@ -3109,7 +3109,7 @@
 										</Loop>
 										<Name Value="" />
 										<Annotation Value="" />
-										<Color Value="19" />
+										<Color Value="61" />
 										<LaunchMode Value="0" />
 										<LaunchQuantisation Value="0" />
 										<TimeSignature>
@@ -3240,7 +3240,7 @@
 										</Loop>
 										<Name Value="" />
 										<Annotation Value="" />
-										<Color Value="19" />
+										<Color Value="61" />
 										<LaunchMode Value="0" />
 										<LaunchQuantisation Value="0" />
 										<TimeSignature>
@@ -3373,7 +3373,7 @@
 										</Loop>
 										<Name Value="" />
 										<Annotation Value="" />
-										<Color Value="19" />
+										<Color Value="61" />
 										<LaunchMode Value="0" />
 										<LaunchQuantisation Value="0" />
 										<TimeSignature>
@@ -3504,7 +3504,7 @@
 										</Loop>
 										<Name Value="" />
 										<Annotation Value="" />
-										<Color Value="19" />
+										<Color Value="61" />
 										<LaunchMode Value="0" />
 										<LaunchQuantisation Value="0" />
 										<TimeSignature>
@@ -3637,7 +3637,7 @@
 										</Loop>
 										<Name Value="" />
 										<Annotation Value="" />
-										<Color Value="19" />
+										<Color Value="61" />
 										<LaunchMode Value="0" />
 										<LaunchQuantisation Value="0" />
 										<TimeSignature>
@@ -3768,7 +3768,7 @@
 										</Loop>
 										<Name Value="" />
 										<Annotation Value="" />
-										<Color Value="19" />
+										<Color Value="61" />
 										<LaunchMode Value="0" />
 										<LaunchQuantisation Value="0" />
 										<TimeSignature>
@@ -3901,7 +3901,7 @@
 										</Loop>
 										<Name Value="" />
 										<Annotation Value="" />
-										<Color Value="19" />
+										<Color Value="61" />
 										<LaunchMode Value="0" />
 										<LaunchQuantisation Value="0" />
 										<TimeSignature>
@@ -4032,7 +4032,7 @@
 										</Loop>
 										<Name Value="" />
 										<Annotation Value="" />
-										<Color Value="19" />
+										<Color Value="61" />
 										<LaunchMode Value="0" />
 										<LaunchQuantisation Value="0" />
 										<TimeSignature>
@@ -4165,7 +4165,7 @@
 										</Loop>
 										<Name Value="" />
 										<Annotation Value="" />
-										<Color Value="19" />
+										<Color Value="61" />
 										<LaunchMode Value="0" />
 										<LaunchQuantisation Value="0" />
 										<TimeSignature>
@@ -4296,7 +4296,7 @@
 										</Loop>
 										<Name Value="" />
 										<Annotation Value="" />
-										<Color Value="19" />
+										<Color Value="61" />
 										<LaunchMode Value="0" />
 										<LaunchQuantisation Value="0" />
 										<TimeSignature>
@@ -4429,7 +4429,7 @@
 										</Loop>
 										<Name Value="" />
 										<Annotation Value="" />
-										<Color Value="19" />
+										<Color Value="61" />
 										<LaunchMode Value="0" />
 										<LaunchQuantisation Value="0" />
 										<TimeSignature>
@@ -4560,7 +4560,7 @@
 										</Loop>
 										<Name Value="" />
 										<Annotation Value="" />
-										<Color Value="19" />
+										<Color Value="61" />
 										<LaunchMode Value="0" />
 										<LaunchQuantisation Value="0" />
 										<TimeSignature>
@@ -4693,7 +4693,7 @@
 										</Loop>
 										<Name Value="" />
 										<Annotation Value="" />
-										<Color Value="19" />
+										<Color Value="61" />
 										<LaunchMode Value="0" />
 										<LaunchQuantisation Value="0" />
 										<TimeSignature>
@@ -4824,7 +4824,7 @@
 										</Loop>
 										<Name Value="" />
 										<Annotation Value="" />
-										<Color Value="19" />
+										<Color Value="61" />
 										<LaunchMode Value="0" />
 										<LaunchQuantisation Value="0" />
 										<TimeSignature>
@@ -4957,7 +4957,7 @@
 										</Loop>
 										<Name Value="" />
 										<Annotation Value="" />
-										<Color Value="19" />
+										<Color Value="61" />
 										<LaunchMode Value="0" />
 										<LaunchQuantisation Value="0" />
 										<TimeSignature>
@@ -5088,7 +5088,7 @@
 										</Loop>
 										<Name Value="" />
 										<Annotation Value="" />
-										<Color Value="19" />
+										<Color Value="61" />
 										<LaunchMode Value="0" />
 										<LaunchQuantisation Value="0" />
 										<TimeSignature>
@@ -5221,7 +5221,7 @@
 										</Loop>
 										<Name Value="" />
 										<Annotation Value="" />
-										<Color Value="19" />
+										<Color Value="61" />
 										<LaunchMode Value="0" />
 										<LaunchQuantisation Value="0" />
 										<TimeSignature>
@@ -5352,7 +5352,7 @@
 										</Loop>
 										<Name Value="" />
 										<Annotation Value="" />
-										<Color Value="19" />
+										<Color Value="61" />
 										<LaunchMode Value="0" />
 										<LaunchQuantisation Value="0" />
 										<TimeSignature>
@@ -5485,7 +5485,7 @@
 										</Loop>
 										<Name Value="" />
 										<Annotation Value="" />
-										<Color Value="19" />
+										<Color Value="61" />
 										<LaunchMode Value="0" />
 										<LaunchQuantisation Value="0" />
 										<TimeSignature>
@@ -5616,7 +5616,7 @@
 										</Loop>
 										<Name Value="" />
 										<Annotation Value="" />
-										<Color Value="19" />
+										<Color Value="61" />
 										<LaunchMode Value="0" />
 										<LaunchQuantisation Value="0" />
 										<TimeSignature>
@@ -5739,7 +5739,7 @@
 							</ArrangerAutomation>
 						</ClipTimeable>
 						<Recorder>
-							<IsArmed Value="false" />
+							<IsArmed Value="true" />
 							<TakeCounter Value="0" />
 						</Recorder>
 						<MidiControllers>
@@ -7627,7 +7627,7 @@
 										<SourceContext>
 											<Value />
 										</SourceContext>
-										<Color Value="19" />
+										<Color Value="61" />
 										<AutoColored Value="true" />
 										<AutoColorScheme Value="0" />
 										<SoloActivatedInSessionMixer Value="false" />
@@ -7882,7 +7882,7 @@
 																			<SourceContext>
 																				<SourceContext Id="0">
 																					<OriginalFileRef>
-																						<FileRef Id="112">
+																						<FileRef Id="115">
 																							<RelativePathType Value="5" />
 																							<RelativePath Value="Samples/One Shots/Drums/Clap/Clap 707.wav" />
 																							<Path Value="/Applications/Ableton Live 11 Standard.app/Contents/App-Resources/Core Library/Samples/One Shots/Drums/Clap/Clap 707.wav" />
@@ -8821,7 +8821,7 @@
 												</SourceContext>
 											</Value>
 										</SourceContext>
-										<Color Value="19" />
+										<Color Value="61" />
 										<AutoColored Value="true" />
 										<AutoColorScheme Value="0" />
 										<SoloActivatedInSessionMixer Value="false" />
@@ -9060,7 +9060,7 @@
 																			<SourceContext>
 																				<SourceContext Id="0">
 																					<OriginalFileRef>
-																						<FileRef Id="110">
+																						<FileRef Id="113">
 																							<RelativePathType Value="5" />
 																							<RelativePath Value="Samples/One Shots/Drums/Clap/Clap 909.aif" />
 																							<Path Value="/Applications/Ableton Live 11 Standard.app/Contents/App-Resources/Core Library/Samples/One Shots/Drums/Clap/Clap 909.aif" />
@@ -10001,7 +10001,7 @@
 												</SourceContext>
 											</Value>
 										</SourceContext>
-										<Color Value="19" />
+										<Color Value="61" />
 										<AutoColored Value="true" />
 										<AutoColorScheme Value="0" />
 										<SoloActivatedInSessionMixer Value="false" />
@@ -10256,7 +10256,7 @@
 																			<SourceContext>
 																				<SourceContext Id="0">
 																					<OriginalFileRef>
-																						<FileRef Id="75">
+																						<FileRef Id="78">
 																							<RelativePathType Value="5" />
 																							<RelativePath Value="Samples/One Shots/Drums/Shaker/Shaker Ironman.aif" />
 																							<Path Value="/Applications/Ableton Live 11 Standard.app/Contents/App-Resources/Core Library/Samples/One Shots/Drums/Shaker/Shaker Ironman.aif" />
@@ -11195,7 +11195,7 @@
 												</SourceContext>
 											</Value>
 										</SourceContext>
-										<Color Value="19" />
+										<Color Value="61" />
 										<AutoColored Value="true" />
 										<AutoColorScheme Value="0" />
 										<SoloActivatedInSessionMixer Value="false" />
@@ -11652,7 +11652,7 @@
 										<SourceContext>
 											<Value />
 										</SourceContext>
-										<Color Value="19" />
+										<Color Value="61" />
 										<AutoColored Value="true" />
 										<AutoColorScheme Value="0" />
 										<SoloActivatedInSessionMixer Value="false" />
@@ -17708,7 +17708,7 @@
 										</Loop>
 										<Name Value="Mood Atmos E 130 bpm" />
 										<Annotation Value="" />
-										<Color Value="26" />
+										<Color Value="27" />
 										<LaunchMode Value="0" />
 										<LaunchQuantisation Value="0" />
 										<TimeSignature>
@@ -17777,7 +17777,7 @@
 											<SourceContext>
 												<SourceContext Id="0">
 													<OriginalFileRef>
-														<FileRef Id="21">
+														<FileRef Id="24">
 															<RelativePathType Value="5" />
 															<RelativePath Value="Samples/Loops/Tonal/Synth/Mood Atmos E 130 bpm.wav" />
 															<Path Value="/Applications/Ableton Live 11 Standard.app/Contents/App-Resources/Core Library/Samples/Loops/Tonal/Synth/Mood Atmos E 130 bpm.wav" />
@@ -17851,7 +17851,7 @@
 										</Loop>
 										<Name Value="Mood Atmos E 130 bpm" />
 										<Annotation Value="" />
-										<Color Value="26" />
+										<Color Value="27" />
 										<LaunchMode Value="0" />
 										<LaunchQuantisation Value="0" />
 										<TimeSignature>
@@ -17920,7 +17920,7 @@
 											<SourceContext>
 												<SourceContext Id="0">
 													<OriginalFileRef>
-														<FileRef Id="21">
+														<FileRef Id="24">
 															<RelativePathType Value="5" />
 															<RelativePath Value="Samples/Loops/Tonal/Synth/Mood Atmos E 130 bpm.wav" />
 															<Path Value="/Applications/Ableton Live 11 Standard.app/Contents/App-Resources/Core Library/Samples/Loops/Tonal/Synth/Mood Atmos E 130 bpm.wav" />
@@ -18157,7 +18157,7 @@
 					<Annotation Value="" />
 					<MemorizedFirstClipName Value="" />
 				</Name>
-				<Color Value="19" />
+				<Color Value="61" />
 				<AutomationEnvelopes>
 					<Envelopes />
 				</AutomationEnvelopes>
@@ -18497,7 +18497,7 @@
 										</Loop>
 										<Name Value="" />
 										<Annotation Value="" />
-										<Color Value="19" />
+										<Color Value="61" />
 										<LaunchMode Value="0" />
 										<LaunchQuantisation Value="0" />
 										<TimeSignature>
@@ -18615,7 +18615,7 @@
 										</Loop>
 										<Name Value="" />
 										<Annotation Value="" />
-										<Color Value="19" />
+										<Color Value="61" />
 										<LaunchMode Value="0" />
 										<LaunchQuantisation Value="0" />
 										<TimeSignature>
@@ -19472,7 +19472,7 @@
 																			<SourceContext>
 																				<SourceContext Id="0">
 																					<OriginalFileRef>
-																						<FileRef Id="71">
+																						<FileRef Id="74">
 																							<RelativePathType Value="5" />
 																							<RelativePath Value="Samples/One Shots/Drums/Shaker/Shaker Acoustic Step 3.aif" />
 																							<Path Value="/Applications/Ableton Live 11 Standard.app/Contents/App-Resources/Core Library/Samples/One Shots/Drums/Shaker/Shaker Acoustic Step 3.aif" />
@@ -20411,7 +20411,7 @@
 												</SourceContext>
 											</Value>
 										</SourceContext>
-										<Color Value="19" />
+										<Color Value="61" />
 										<AutoColored Value="true" />
 										<AutoColorScheme Value="0" />
 										<SoloActivatedInSessionMixer Value="false" />
@@ -20900,7 +20900,7 @@
 			<AudioTrack Id="22">
 				<LomId Value="0" />
 				<LomIdView Value="0" />
-				<IsContentSelectedInDocument Value="false" />
+				<IsContentSelectedInDocument Value="true" />
 				<PreferredContentViewMode Value="0" />
 				<TrackDelay>
 					<Value Value="0" />
@@ -20912,7 +20912,7 @@
 					<Annotation Value="" />
 					<MemorizedFirstClipName Value="MD_CLOCK_006" />
 				</Name>
-				<Color Value="19" />
+				<Color Value="61" />
 				<AutomationEnvelopes>
 					<Envelopes>
 						<AutomationEnvelope Id="0">
@@ -20964,8 +20964,8 @@
 						<AreAdditionalAutomationLanesFolded Value="false" />
 					</AutomationLanes>
 					<ClipEnvelopeChooserViewState>
-						<SelectedDevice Value="6" />
-						<SelectedEnvelope Value="5" />
+						<SelectedDevice Value="0" />
+						<SelectedEnvelope Value="1" />
 						<PreferModulationVisible Value="true" />
 					</ClipEnvelopeChooserViewState>
 					<AudioInputRouting>
@@ -21173,7 +21173,7 @@
 						<ParametersListWrapper LomId="0" />
 						<Pointee Id="28594" />
 						<LastSelectedTimeableIndex Value="0" />
-						<LastSelectedClipEnvelopeIndex Value="0" />
+						<LastSelectedClipEnvelopeIndex Value="1" />
 						<LastPresetRef>
 							<Value />
 						</LastPresetRef>
@@ -21271,7 +21271,7 @@
 										</Loop>
 										<Name Value="MD_CLOCK_006" />
 										<Annotation Value="" />
-										<Color Value="0" />
+										<Color Value="61" />
 										<LaunchMode Value="0" />
 										<LaunchQuantisation Value="0" />
 										<TimeSignature>
@@ -21398,7 +21398,7 @@
 										</Loop>
 										<Name Value="MD_CLOCK_006" />
 										<Annotation Value="" />
-										<Color Value="0" />
+										<Color Value="61" />
 										<LaunchMode Value="0" />
 										<LaunchQuantisation Value="0" />
 										<TimeSignature>
@@ -27621,8 +27621,8 @@
 					<AutomationLanes>
 						<AutomationLanes>
 							<AutomationLane Id="0">
-								<SelectedDevice Value="1" />
-								<SelectedEnvelope Value="37" />
+								<SelectedDevice Value="4" />
+								<SelectedEnvelope Value="2" />
 								<IsContentSelectedInDocument Value="false" />
 								<LaneHeight Value="34" />
 							</AutomationLane>
@@ -27642,8 +27642,8 @@
 						<AreAdditionalAutomationLanesFolded Value="false" />
 					</AutomationLanes>
 					<ClipEnvelopeChooserViewState>
-						<SelectedDevice Value="1" />
-						<SelectedEnvelope Value="37" />
+						<SelectedDevice Value="4" />
+						<SelectedEnvelope Value="2" />
 						<PreferModulationVisible Value="true" />
 					</ClipEnvelopeChooserViewState>
 					<AudioInputRouting>
@@ -27704,8 +27704,8 @@
 						<ModulationSourceCount Value="0" />
 						<ParametersListWrapper LomId="0" />
 						<Pointee Id="23979" />
-						<LastSelectedTimeableIndex Value="0" />
-						<LastSelectedClipEnvelopeIndex Value="0" />
+						<LastSelectedTimeableIndex Value="2" />
+						<LastSelectedClipEnvelopeIndex Value="2" />
 						<LastPresetRef>
 							<Value />
 						</LastPresetRef>
@@ -27810,7 +27810,7 @@
 						</SplitStereoPanR>
 						<Volume>
 							<LomId Value="0" />
-							<Manual Value="0.1258925349" />
+							<Manual Value="0.1584893167" />
 							<MidiControllerRange>
 								<Min Value="0.0003162277571" />
 								<Max Value="1.99526238" />
@@ -36334,7 +36334,7 @@
 										<NumAudioInputs Value="1" />
 										<NumAudioOutputs Value="1" />
 										<Preset>
-											<Vst3Preset Id="46">
+											<Vst3Preset Id="49">
 												<OverwriteProtectionNumber Value="2819" />
 												<MpeEnabled Value="0" />
 												<MpeSettings>
@@ -40163,8 +40163,8 @@
 					<AutomationLanes>
 						<AutomationLanes>
 							<AutomationLane Id="0">
-								<SelectedDevice Value="3" />
-								<SelectedEnvelope Value="5" />
+								<SelectedDevice Value="4" />
+								<SelectedEnvelope Value="2" />
 								<IsContentSelectedInDocument Value="false" />
 								<LaneHeight Value="34" />
 							</AutomationLane>
@@ -40172,8 +40172,8 @@
 						<AreAdditionalAutomationLanesFolded Value="false" />
 					</AutomationLanes>
 					<ClipEnvelopeChooserViewState>
-						<SelectedDevice Value="3" />
-						<SelectedEnvelope Value="5" />
+						<SelectedDevice Value="4" />
+						<SelectedEnvelope Value="2" />
 						<PreferModulationVisible Value="true" />
 					</ClipEnvelopeChooserViewState>
 					<AudioInputRouting>
@@ -40235,7 +40235,7 @@
 						<ParametersListWrapper LomId="0" />
 						<Pointee Id="24765" />
 						<LastSelectedTimeableIndex Value="2" />
-						<LastSelectedClipEnvelopeIndex Value="1" />
+						<LastSelectedClipEnvelopeIndex Value="2" />
 						<LastPresetRef>
 							<Value />
 						</LastPresetRef>
@@ -40340,7 +40340,7 @@
 						</SplitStereoPanR>
 						<Volume>
 							<LomId Value="0" />
-							<Manual Value="0.09999999404" />
+							<Manual Value="0.08912508935" />
 							<MidiControllerRange>
 								<Min Value="0.0003162277571" />
 								<Max Value="1.99526238" />
@@ -41635,7 +41635,7 @@
 													<SourceContext>
 														<SourceContext Id="0">
 															<OriginalFileRef>
-																<FileRef Id="35">
+																<FileRef Id="38">
 																	<RelativePathType Value="5" />
 																	<RelativePath Value="Samples/Multisamples/Grand Piano/GrandPiano C1 f.aif" />
 																	<Path Value="/Applications/Ableton Live 11 Standard.app/Contents/App-Resources/Core Library/Samples/Multisamples/Grand Piano/GrandPiano C1 f.aif" />
@@ -44807,8 +44807,8 @@
 											<Envelopes />
 										</Envelopes>
 										<ScrollerTimePreserver>
-											<LeftTime Value="0" />
-											<RightTime Value="4" />
+											<LeftTime Value="2" />
+											<RightTime Value="6" />
 										</ScrollerTimePreserver>
 										<TimeSelection>
 											<AnchorTime Value="0" />
@@ -46623,7 +46623,7 @@
 													<SourceContext>
 														<SourceContext Id="0">
 															<OriginalFileRef>
-																<FileRef Id="186">
+																<FileRef Id="189">
 																	<RelativePathType Value="5" />
 																	<RelativePath Value="Samples/Multisamples/Grand Piano/GrandPiano C3 f.aif" />
 																	<Path Value="/Applications/Ableton Live 11 Standard.app/Contents/App-Resources/Core Library/Samples/Multisamples/Grand Piano/GrandPiano C3 f.aif" />
@@ -48257,7 +48257,7 @@
 										<NumAudioInputs Value="1" />
 										<NumAudioOutputs Value="1" />
 										<Preset>
-											<Vst3Preset Id="165">
+											<Vst3Preset Id="168">
 												<OverwriteProtectionNumber Value="2819" />
 												<MpeEnabled Value="0" />
 												<MpeSettings>
@@ -56068,7 +56068,7 @@
 						<SampleOffsetModulationScrollPosition Value="-1073741824" />
 						<Recorder>
 							<IsArmed Value="false" />
-							<TakeCounter Value="3" />
+							<TakeCounter Value="4" />
 						</Recorder>
 					</AudioSequencer>
 				</FreezeSequencer>
@@ -56164,7 +56164,7 @@
 															<NumAudioInputs Value="1" />
 															<NumAudioOutputs Value="1" />
 															<Preset>
-																<Vst3Preset Id="14">
+																<Vst3Preset Id="17">
 																	<OverwriteProtectionNumber Value="2819" />
 																	<MpeEnabled Value="0" />
 																	<MpeSettings>
@@ -61404,7 +61404,7 @@
 			<LoopStart Value="224" />
 			<LoopLength Value="32" />
 			<LoopIsSongStart Value="false" />
-			<CurrentTime Value="460" />
+			<CurrentTime Value="485.78140589569159" />
 			<PunchIn Value="false" />
 			<PunchOut Value="false" />
 			<MetronomeTickDuration Value="0" />
@@ -61431,15 +61431,15 @@
 		<InKey Value="false" />
 		<SmpteFormat Value="0" />
 		<TimeSelection>
-			<AnchorTime Value="256" />
-			<OtherTime Value="460" />
+			<AnchorTime Value="320" />
+			<OtherTime Value="384" />
 		</TimeSelection>
 		<SequencerNavigator>
 			<BeatTimeHelper>
 				<CurrentZoom Value="0.192341900613144101" />
 			</BeatTimeHelper>
-			<ScrollerPos X="-1473" Y="0" />
-			<ClientSize X="1053" Y="693" />
+			<ScrollerPos X="-1308" Y="0" />
+			<ClientSize X="1053" Y="631" />
 		</SequencerNavigator>
 		<IsContentSplitterOpen Value="true" />
 		<IsExpressionSplitterOpen Value="true" />
@@ -61494,7 +61494,7 @@
 		<SoloInPlace Value="true" />
 		<CrossfadeCurve Value="2" />
 		<LatencyCompensation Value="2" />
-		<HighlightedTrackIndex Value="0" />
+		<HighlightedTrackIndex Value="1" />
 		<GroovePool>
 			<LomId Value="0" />
 			<Grooves>
@@ -61684,7 +61684,7 @@
 		<TrackHeaderWidth Value="93" />
 		<ViewStateArrangerHasDetail Value="true" />
 		<ViewStateSessionHasDetail Value="true" />
-		<ViewStateDetailIsSample Value="false" />
+		<ViewStateDetailIsSample Value="true" />
 		<ViewStates>
 			<SessionIO Value="1" />
 			<SessionSends Value="1" />
