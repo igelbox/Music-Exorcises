@@ -460,7 +460,7 @@
 										<LomId Value="0" />
 										<LomIdView Value="0" />
 										<CurrentStart Value="256" />
-										<CurrentEnd Value="456" />
+										<CurrentEnd Value="460" />
 										<Loop>
 											<LoopStart Value="0" />
 											<LoopEnd Value="1" />
@@ -1306,7 +1306,7 @@
 																			<SourceContext>
 																				<SourceContext Id="0">
 																					<OriginalFileRef>
-																						<FileRef Id="93">
+																						<FileRef Id="95">
 																							<RelativePathType Value="5" />
 																							<RelativePath Value="Samples/One Shots/Drums/Rim/Rim 909.aif" />
 																							<Path Value="/Applications/Ableton Live 11 Standard.app/Contents/App-Resources/Core Library/Samples/One Shots/Drums/Rim/Rim 909.aif" />
@@ -7882,7 +7882,7 @@
 																			<SourceContext>
 																				<SourceContext Id="0">
 																					<OriginalFileRef>
-																						<FileRef Id="110">
+																						<FileRef Id="112">
 																							<RelativePathType Value="5" />
 																							<RelativePath Value="Samples/One Shots/Drums/Clap/Clap 707.wav" />
 																							<Path Value="/Applications/Ableton Live 11 Standard.app/Contents/App-Resources/Core Library/Samples/One Shots/Drums/Clap/Clap 707.wav" />
@@ -9060,7 +9060,7 @@
 																			<SourceContext>
 																				<SourceContext Id="0">
 																					<OriginalFileRef>
-																						<FileRef Id="108">
+																						<FileRef Id="110">
 																							<RelativePathType Value="5" />
 																							<RelativePath Value="Samples/One Shots/Drums/Clap/Clap 909.aif" />
 																							<Path Value="/Applications/Ableton Live 11 Standard.app/Contents/App-Resources/Core Library/Samples/One Shots/Drums/Clap/Clap 909.aif" />
@@ -10256,7 +10256,7 @@
 																			<SourceContext>
 																				<SourceContext Id="0">
 																					<OriginalFileRef>
-																						<FileRef Id="73">
+																						<FileRef Id="75">
 																							<RelativePathType Value="5" />
 																							<RelativePath Value="Samples/One Shots/Drums/Shaker/Shaker Ironman.aif" />
 																							<Path Value="/Applications/Ableton Live 11 Standard.app/Contents/App-Resources/Core Library/Samples/One Shots/Drums/Shaker/Shaker Ironman.aif" />
@@ -14684,7 +14684,7 @@
 								<ParametersListWrapper LomId="0" />
 								<Pointee Id="24513" />
 								<LastSelectedTimeableIndex Value="1" />
-								<LastSelectedClipEnvelopeIndex Value="0" />
+								<LastSelectedClipEnvelopeIndex Value="1" />
 								<LastPresetRef>
 									<Value>
 										<AbletonDefaultPresetRef Id="2">
@@ -17777,7 +17777,7 @@
 											<SourceContext>
 												<SourceContext Id="0">
 													<OriginalFileRef>
-														<FileRef Id="19">
+														<FileRef Id="21">
 															<RelativePathType Value="5" />
 															<RelativePath Value="Samples/Loops/Tonal/Synth/Mood Atmos E 130 bpm.wav" />
 															<Path Value="/Applications/Ableton Live 11 Standard.app/Contents/App-Resources/Core Library/Samples/Loops/Tonal/Synth/Mood Atmos E 130 bpm.wav" />
@@ -17920,7 +17920,7 @@
 											<SourceContext>
 												<SourceContext Id="0">
 													<OriginalFileRef>
-														<FileRef Id="19">
+														<FileRef Id="21">
 															<RelativePathType Value="5" />
 															<RelativePath Value="Samples/Loops/Tonal/Synth/Mood Atmos E 130 bpm.wav" />
 															<Path Value="/Applications/Ableton Live 11 Standard.app/Contents/App-Resources/Core Library/Samples/Loops/Tonal/Synth/Mood Atmos E 130 bpm.wav" />
@@ -19472,7 +19472,7 @@
 																			<SourceContext>
 																				<SourceContext Id="0">
 																					<OriginalFileRef>
-																						<FileRef Id="69">
+																						<FileRef Id="71">
 																							<RelativePathType Value="5" />
 																							<RelativePath Value="Samples/One Shots/Drums/Shaker/Shaker Acoustic Step 3.aif" />
 																							<Path Value="/Applications/Ableton Live 11 Standard.app/Contents/App-Resources/Core Library/Samples/One Shots/Drums/Shaker/Shaker Acoustic Step 3.aif" />
@@ -27622,7 +27622,7 @@
 						<AutomationLanes>
 							<AutomationLane Id="0">
 								<SelectedDevice Value="1" />
-								<SelectedEnvelope Value="41" />
+								<SelectedEnvelope Value="37" />
 								<IsContentSelectedInDocument Value="false" />
 								<LaneHeight Value="34" />
 							</AutomationLane>
@@ -27643,7 +27643,7 @@
 					</AutomationLanes>
 					<ClipEnvelopeChooserViewState>
 						<SelectedDevice Value="1" />
-						<SelectedEnvelope Value="41" />
+						<SelectedEnvelope Value="37" />
 						<PreferModulationVisible Value="true" />
 					</ClipEnvelopeChooserViewState>
 					<AudioInputRouting>
@@ -29115,11 +29115,11 @@
 										<TakeId Value="1" />
 										<Notes>
 											<KeyTracks>
-												<KeyTrack Id="80">
+												<KeyTrack Id="88">
 													<Notes>
 														<MidiNoteEvent Time="0" Duration="0.25" Velocity="100" VelocityDeviation="0" OffVelocity="64" Probability="1" IsEnabled="true" NoteId="1" />
 													</Notes>
-													<MidiKey Value="47" />
+													<MidiKey Value="36" />
 												</KeyTrack>
 											</KeyTracks>
 											<PerNoteEventStore>
@@ -29137,7 +29137,7 @@
 										<NoteEditorFoldOutZoom Value="1566" />
 										<NoteEditorFoldOutScroll Value="-1229" />
 										<NoteEditorFoldScaleZoom Value="1800" />
-										<NoteEditorFoldScaleScroll Value="-1128" />
+										<NoteEditorFoldScaleScroll Value="-1172" />
 										<ScaleInformation>
 											<RootNote Value="4" />
 											<Name Value="Minor" />
@@ -34783,8 +34783,8 @@
 								<ModulationSourceCount Value="0" />
 								<ParametersListWrapper LomId="0" />
 								<Pointee Id="24135" />
-								<LastSelectedTimeableIndex Value="41" />
-								<LastSelectedClipEnvelopeIndex Value="28" />
+								<LastSelectedTimeableIndex Value="37" />
+								<LastSelectedClipEnvelopeIndex Value="24" />
 								<LastPresetRef>
 									<Value>
 										<AbletonDefaultPresetRef Id="2">
@@ -34908,7 +34908,7 @@
 								</Filter_Tracking>
 								<Filter_ModAmount1>
 									<LomId Value="0" />
-									<Manual Value="0.5008547902" />
+									<Manual Value="0.4299999475" />
 									<MidiControllerRange>
 										<Min Value="-1" />
 										<Max Value="1" />
@@ -35327,7 +35327,7 @@
 								</Envelope1_Sustain>
 								<Envelope2_Attack>
 									<LomId Value="0" />
-									<Manual Value="0.09999997914" />
+									<Manual Value="0.04999999702" />
 									<MidiControllerRange>
 										<Min Value="0" />
 										<Max Value="60" />
@@ -36334,7 +36334,7 @@
 										<NumAudioInputs Value="1" />
 										<NumAudioOutputs Value="1" />
 										<Preset>
-											<Vst3Preset Id="44">
+											<Vst3Preset Id="46">
 												<OverwriteProtectionNumber Value="2819" />
 												<MpeEnabled Value="0" />
 												<MpeSettings>
@@ -40131,8 +40131,8 @@
 							</EnvelopeTarget>
 							<Automation>
 								<Events>
-									<FloatEvent Id="44" Time="-63072000" Value="99.0762177" />
-									<FloatEvent Id="43" Time="96" Value="99.0762177" />
+									<FloatEvent Id="46" Time="-63072000" Value="102.23262" />
+									<FloatEvent Id="45" Time="96" Value="102.23262" />
 									<FloatEvent Id="22" Time="128" Value="135" />
 								</Events>
 								<AutomationTransformViewState>
@@ -41635,7 +41635,7 @@
 													<SourceContext>
 														<SourceContext Id="0">
 															<OriginalFileRef>
-																<FileRef Id="33">
+																<FileRef Id="35">
 																	<RelativePathType Value="5" />
 																	<RelativePath Value="Samples/Multisamples/Grand Piano/GrandPiano C1 f.aif" />
 																	<Path Value="/Applications/Ableton Live 11 Standard.app/Contents/App-Resources/Core Library/Samples/Multisamples/Grand Piano/GrandPiano C1 f.aif" />
@@ -43599,7 +43599,7 @@
 								<ParametersListWrapper LomId="0" />
 								<Pointee Id="35494" />
 								<LastSelectedTimeableIndex Value="5" />
-								<LastSelectedClipEnvelopeIndex Value="5" />
+								<LastSelectedClipEnvelopeIndex Value="0" />
 								<LastPresetRef>
 									<Value>
 										<AbletonDefaultPresetRef Id="2">
@@ -44047,7 +44047,7 @@
 							<Automation>
 								<Events>
 									<FloatEvent Id="491" Time="-63072000" Value="135" />
-									<FloatEvent Id="587" Time="184" Value="135" />
+									<FloatEvent Id="659" Time="184" Value="135" />
 									<FloatEvent Id="582" Time="200" Value="20" />
 									<FloatEvent Id="385" Time="240" Value="20" />
 									<FloatEvent Id="386" Time="256" Value="95.213089" />
@@ -44068,8 +44068,8 @@
 							<Automation>
 								<Events>
 									<FloatEvent Id="112" Time="-63072000" Value="1" />
-									<FloatEvent Id="437" Time="188" Value="1" />
-									<FloatEvent Id="412" Time="200" Value="0" />
+									<FloatEvent Id="462" Time="188" Value="1" />
+									<FloatEvent Id="471" Time="204" Value="0" />
 									<FloatEvent Id="343" Time="248" Value="0" />
 									<FloatEvent Id="328" Time="252" Value="1" />
 									<FloatEvent Id="127" Time="256" Value="1" />
@@ -44807,8 +44807,8 @@
 											<Envelopes />
 										</Envelopes>
 										<ScrollerTimePreserver>
-											<LeftTime Value="6" />
-											<RightTime Value="10" />
+											<LeftTime Value="0" />
+											<RightTime Value="4" />
 										</ScrollerTimePreserver>
 										<TimeSelection>
 											<AnchorTime Value="0" />
@@ -46623,7 +46623,7 @@
 													<SourceContext>
 														<SourceContext Id="0">
 															<OriginalFileRef>
-																<FileRef Id="184">
+																<FileRef Id="186">
 																	<RelativePathType Value="5" />
 																	<RelativePath Value="Samples/Multisamples/Grand Piano/GrandPiano C3 f.aif" />
 																	<Path Value="/Applications/Ableton Live 11 Standard.app/Contents/App-Resources/Core Library/Samples/Multisamples/Grand Piano/GrandPiano C3 f.aif" />
@@ -48257,7 +48257,7 @@
 										<NumAudioInputs Value="1" />
 										<NumAudioOutputs Value="1" />
 										<Preset>
-											<Vst3Preset Id="163">
+											<Vst3Preset Id="165">
 												<OverwriteProtectionNumber Value="2819" />
 												<MpeEnabled Value="0" />
 												<MpeSettings>
@@ -56164,7 +56164,7 @@
 															<NumAudioInputs Value="1" />
 															<NumAudioOutputs Value="1" />
 															<Preset>
-																<Vst3Preset Id="12">
+																<Vst3Preset Id="14">
 																	<OverwriteProtectionNumber Value="2819" />
 																	<MpeEnabled Value="0" />
 																	<MpeSettings>
@@ -61404,7 +61404,7 @@
 			<LoopStart Value="224" />
 			<LoopLength Value="32" />
 			<LoopIsSongStart Value="false" />
-			<CurrentTime Value="457.894820861678" />
+			<CurrentTime Value="460" />
 			<PunchIn Value="false" />
 			<PunchOut Value="false" />
 			<MetronomeTickDuration Value="0" />
@@ -61432,13 +61432,13 @@
 		<SmpteFormat Value="0" />
 		<TimeSelection>
 			<AnchorTime Value="256" />
-			<OtherTime Value="456" />
+			<OtherTime Value="460" />
 		</TimeSelection>
 		<SequencerNavigator>
 			<BeatTimeHelper>
-				<CurrentZoom Value="0.192353173039022468" />
+				<CurrentZoom Value="0.192341900613144101" />
 			</BeatTimeHelper>
-			<ScrollerPos X="-1368" Y="0" />
+			<ScrollerPos X="-1473" Y="0" />
 			<ClientSize X="1053" Y="693" />
 		</SequencerNavigator>
 		<IsContentSplitterOpen Value="true" />
